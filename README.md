@@ -1,4 +1,4 @@
-# Arbitragee Util Functions 
+# Arbitrage Util Functions 
 
 ## Overview
 
